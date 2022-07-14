@@ -32,6 +32,7 @@ contract MyEpicNFT is ERC721URIStorage {
         "Disastrous",
         "Lopsided"
     ];
+
     string[] secondWords = [
         "Cupcake",
         "Pizza",
@@ -49,6 +50,7 @@ contract MyEpicNFT is ERC721URIStorage {
         "Pastry",
         "Donut"
     ];
+
     string[] thirdWords = [
         "Percy",
         "Annabeth",
